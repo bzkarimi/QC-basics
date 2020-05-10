@@ -14,6 +14,6 @@ Simple and Essential Codes in Quantum Computing
 ## **General comments regarding the codes**:
 
 1. q00.py: Visualization of state vector  
-2. q02.py: Quantum Entanglement  
-3. q03.py: Quantum Teleportation  
+2. q01.py: Quantum Entanglement  
+3. q02.py: Quantum Teleportation  
 
