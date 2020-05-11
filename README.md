@@ -3,13 +3,13 @@ Simple and Essential Codes in Quantum Computing
 
 ## **Python 3 virtual environment and installing Qiskit**:
 
-`conda create -n PYTHON3QISKIT python=3.7.1`  
-`conda activate PYTHON3QISKIT`  
-`pip install qiskit`  
-`conda activate PYTHON3QISKIT`  
-`pip install ipython`  
-`pip install matplotlib`  
-`pip install ipykernel`  
+`conda create -n PYTHON3QISKIT python=3.7.1  
+conda activate PYTHON3QISKIT  
+pip install qiskit  
+conda activate PYTHON3QISKIT  
+pip install ipython  
+pip install matplotlib  
+pip install ipykernel`  
 
 ## **General comments regarding the codes**:
 
