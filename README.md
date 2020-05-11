@@ -9,7 +9,8 @@ pip install qiskit
 conda activate PYTHON3QISKIT  
 pip install ipython  
 pip install matplotlib  
-pip install ipykernel```  
+pip install ipykernel
+```
 
 ## **General comments regarding the codes**:
 
